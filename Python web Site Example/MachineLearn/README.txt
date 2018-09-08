@@ -1,0 +1,1 @@
+- adds and example graph using javasript - it does not have the "real data"
